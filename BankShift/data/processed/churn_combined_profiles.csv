@@ -1,0 +1,22 @@
+Age_Group,Activity_Status,Product_Group,Total_Customers,Churned_Customers,Churn_Rate
+56+,Inactive,1 Product,141,129,91.49
+36-45,Active,3+ Products,50,44,88.0
+36-45,Inactive,3+ Products,80,69,86.25
+46-55,Inactive,1 Product,439,323,73.58
+46-55,Active,1 Product,358,165,46.09
+36-45,Inactive,1 Product,966,312,32.3
+46-55,Inactive,2 Products,178,52,29.21
+56+,Active,1 Product,306,64,20.92
+36-45,Active,1 Product,892,172,19.28
+26-35,Inactive,1 Product,845,139,16.45
+18-25,Inactive,1 Product,130,21,16.15
+46-55,Active,2 Products,251,39,15.54
+36-45,Inactive,2 Products,899,90,10.01
+56+,Active,2 Products,262,25,9.54
+26-35,Active,1 Product,852,77,9.04
+36-45,Active,2 Products,849,46,5.42
+18-25,Inactive,2 Products,154,8,5.19
+18-25,Active,1 Product,155,7,4.52
+26-35,Inactive,2 Products,865,25,2.89
+18-25,Active,2 Products,162,4,2.47
+26-35,Active,2 Products,922,22,2.39

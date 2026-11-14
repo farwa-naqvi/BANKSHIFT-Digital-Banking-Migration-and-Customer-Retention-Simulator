@@ -1,0 +1,5 @@
+Customer_Segment,Total_Customers,Average_Age,Average_Balance,Average_Tenure,Average_Products,Churn_Rate
+Active Multi-Product,2588,39.34,53071.26,4.98,2.07,9.66
+Active Single-Product,2563,40.25,98902.02,4.89,1.0,18.92
+Inactive Multi-Product,2328,36.82,54326.79,5.13,2.09,16.24
+Inactive Single-Product,2521,39.09,98195.89,5.06,1.0,36.65

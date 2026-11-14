@@ -1,0 +1,4 @@
+Strategy,Eligible_Customers,Adoption_Rate,Attrition_Rate,Migration_Months,Expected_Adopters,Retained_Adopters,Annual_Savings_Run_Rate,First_Year_Savings,Support_Expenditure,Implementation_Cost,Migration_Expenditure,Net_First_Year_Benefit,Budget_Utilisation,Budget_Remaining,Budget_Status
+Conservative,10000,25.0,5.0,12,2500,2375,19000000,9500000,3500000,1500000,5000000,4500000,33.33,10000000,Within Budget
+Balanced,10000,45.0,8.0,8,4500,4140,33120000,22080000,7650000,2000000,9650000,12430000,64.33,5350000,Within Budget
+Aggressive,10000,65.0,18.0,6,6500,5330,42640000,31980000,14300000,3000000,17300000,14680000,115.33,-2300000,Over Budget

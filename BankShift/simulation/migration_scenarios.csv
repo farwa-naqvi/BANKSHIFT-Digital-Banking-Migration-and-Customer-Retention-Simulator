@@ -1,0 +1,4 @@
+Strategy,Adoption_Rate,Attrition_Rate,Support_Cost,Implementation_Cost,Migration_Months
+Conservative,0.25,0.05,1400,1500000,12
+Balanced,0.45,0.08,1700,2000000,8
+Aggressive,0.65,0.18,2200,3000000,6

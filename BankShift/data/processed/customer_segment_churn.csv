@@ -1,0 +1,5 @@
+Customer_Segment,Total_Customers,Churned_Customers,Churn_Rate
+Active Multi-Product,2588,250,9.66
+Active Single-Product,2563,485,18.92
+Inactive Multi-Product,2328,378,16.24
+Inactive Single-Product,2521,924,36.65
